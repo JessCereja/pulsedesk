@@ -1,0 +1,10 @@
+# Arquivos de ambiente
+.env
+.env.*
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências
+node_modules/
